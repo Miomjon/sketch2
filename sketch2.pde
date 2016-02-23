@@ -1,5 +1,5 @@
 void settings() {
-  size(400, 800);
+  size(400, 800, P2D);
 }
 
 void setup() {
