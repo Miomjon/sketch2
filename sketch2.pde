@@ -3,7 +3,7 @@ void settings() {
 }
 
 void setup() {
-  background(20, 200, 200);
+  background(255, 116, 183);
   noLoop();
 }
 
